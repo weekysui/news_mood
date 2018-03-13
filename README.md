@@ -1,4 +1,7 @@
-
+## News Sentiment Analysis:
+- According the Overall Media Sentiment plot, BBC and CBS were the only 2 has the positive average polarity scores. BBC is 0.11, and CBS is 0.34
+- Based on the scatter plot and the bar graph, the poalrity scores of Fox media is relatively neutral, compare with BBC, CBS, CNN and New York Times, Fox average compound score is -0.02, and it's closer to 0.
+- The mean of CBS compound score is 0.34, it's the most positive one in the sample data. It had at least 0.23 points higher than other. 
 
 ```python
 import tweepy
